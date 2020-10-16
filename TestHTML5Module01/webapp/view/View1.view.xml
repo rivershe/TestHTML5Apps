@@ -4,7 +4,7 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-                    </Text>="Hello SAP"/>
+                    </Text>="Hello CICD"/>
                     </content>
 				</Page>
 			</pages>
