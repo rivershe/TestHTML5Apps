@@ -3,9 +3,7 @@
 		<App id="app">
 			<pages>
 				<Page id="page" title="{i18n>title}">
-					<content>
-                    </Text>="Hello CICD1"/>
-                    </content>
+					<content></content>
 				</Page>
 			</pages>
 		</App>
